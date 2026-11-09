@@ -55,22 +55,11 @@ The fix: instead of plotting every product individually, I bucketed any product 
 - Treemaps, scatter plots, Pareto charts, KPI cards, margin trend views
 - Responsive layout with a mobile-friendly sidebar mode
 
-## Project Structure
-
-```
-Nassau-Candy-Analysis-v2/
-├── dashboard.py
-├── requirements/
-├── data/
-├── notebooks/
-├── research-paper/
-└── README.md
-```
 
 ## Run It Locally
 
 ```bash
-git clone https://github.com/Pratham719/Nassau-Candy-Analysis-v2.git
+git clone https://github.com/Deepanshu220/INETERN-PROJECT----Nassau-Candy-Analysis.git
 cd Nassau-Candy-Analysis-v2
 pip install -r requirements.txt
 streamlit run dashboard.py
